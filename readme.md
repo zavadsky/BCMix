@@ -10,3 +10,7 @@ The program has 4 command line arguments:
 [4] name of the output file for the decoded numbers
 
 The input file should contain the sequence of 32-bit unsigned integers.
+
+Test integer sequences can be downloaded from:
+1. For small English text (The Bible) https://drive.google.com/file/d/10DAFkE4wFilsg50wnfIm6_FxwoRaxUtU/view?usp=share_link
+2. For middle-sized 200MB English text: https://drive.google.com/file/d/11bJhja9UKnBK4CxRzo-PEqKBhFSgrDm3/view?usp=share_link 
