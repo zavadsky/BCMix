@@ -1,5 +1,5 @@
 Program in the main.cpp file demonstrates:
-- encoding the sequence of integers
+- encoding the sequence of integers with the Binary mixed-digit codes
 - finding the optimal code for the given sequence
 - testing the fast decoding speed
 
