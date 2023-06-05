@@ -1,2 +1,5 @@
 The program has 4 command line arguments:
-<number of test iterations> <input file> <file to write code> <file to write decoded numbers>
+1) number of test iterations
+2) input file
+3) file to write code 
+4) file to write decoded numbers
