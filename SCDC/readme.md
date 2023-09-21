@@ -1,4 +1,4 @@
-Program in the main.cpp encodes the sequence of integers with the byte codes with restricted prefix properties (RPBC) [1] and tests the speed of the fast decoding algorithm.
+Program in the main.cpp encodes the sequence of integers with the (s,c)-dense codes (SCDC) [1] and tests the speed of the fast decoding algorithm.
 
 The program has 4 command line arguments:
 
